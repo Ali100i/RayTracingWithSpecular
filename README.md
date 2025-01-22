@@ -34,7 +34,7 @@ pip install numpy pillow
 
 ## Customization
 
-You can modify the scene by editing the spheres and lights defined in the `render_scene` function within the `RayTracer.py` file. Each sphere is defined by:
+You can modify the scene by editing the spheres and lights defined in the `render_scene` function within the `specular_reflections.py` file. Each sphere is defined by:
 
 - **Center**: The position of the sphere in 3D space.
 - **Radius**: The size of the sphere.
