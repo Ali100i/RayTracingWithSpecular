@@ -1,4 +1,4 @@
-# Ray Meets Sphere
+# Ray Tracing with specular
 
 This repository contains a simple implementation of a ray tracing algorithm in Python. It generates a 3D-rendered scene with spheres and lights then saves the output as an image.
 
@@ -21,13 +21,13 @@ pip install numpy pillow
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/Ali100i/RayMeetsSphere.git
-   cd RayMeetsSphere
+   git clone https://github.com/Ali100i/RayTracingWithSpecular.git
+   cd RayTracingWithSpecular
    ```
 
 2. Run the script:
    ```bash
-   python RayTracer.py
+   python .py
    ```
 
 3. After running, the script will generate an image file named `raytraced_scene.png` in the same directory.
