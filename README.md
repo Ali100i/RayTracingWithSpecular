@@ -41,7 +41,7 @@ You can modify the scene by editing the spheres and lights defined in the `rende
 - **Color**: The RGB color of the sphere.
 - **Specular**: The shininess of the sphere
 
-Example:
+For spheres:
 ```python
 spheres = [
     Sphere(Vector3(0, -1, 3), 1, (255, 0, 0)),  # Red sphere
