@@ -41,6 +41,12 @@ You can modify the scene by editing the spheres and lights defined in the `rende
 - **Color**: The RGB color of the sphere.
 - **Specular**: The shininess of the sphere
 
+and lights are defined by:
+- **type**: ambient, point or directional.
+- **intensity**: a float value to specify how intense the light is.
+- **position**: the position of the light in the 3D space.
+- **direction**: the angle of the light.
+
 For spheres:
 ```python
 spheres = [
