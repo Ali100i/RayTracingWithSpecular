@@ -47,7 +47,7 @@ and lights are defined by:
 - **position**: the position of the light in the 3D space.
 - **direction**: the angle of the light.
 
-For spheres:
+Example for spheres:
 ```python
 spheres = [
     Sphere(Vector3(0, -1, 3), 1, (255, 0, 0)),  # Red sphere
@@ -57,7 +57,7 @@ spheres = [
 ]
 ```
 
-For lights:
+Example for lights:
 ```python
 lights = [
         Light("ambient", 0.2),
