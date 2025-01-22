@@ -27,7 +27,7 @@ pip install numpy pillow
 
 2. Run the script:
    ```bash
-   python .py
+   python specular_reflections.py
    ```
 
 3. After running, the script will generate an image file named `raytraced_scene.png` in the same directory.
