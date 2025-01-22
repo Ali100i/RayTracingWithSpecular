@@ -1,6 +1,6 @@
 # Ray Meets Sphere
 
-This repository contains a simple implementation of a ray tracing algorithm in Python. It generates a 3D-rendered scene with spheres and saves the output as an image.
+This repository contains a simple implementation of a ray tracing algorithm in Python. It generates a 3D-rendered scene with spheres and lights then saves the output as an image.
 
 ## Prerequisites
 
